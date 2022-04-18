@@ -43,19 +43,19 @@ Configuração de conta ( Alterações de dados) <br/>
 Métodos de contato com o Cliente <br/>
 
 
-# RESUMO
-
-Os testes foram criados utilizando como exemplo o projeto criado em sala pela Professora Rafaela.
-Foram utilizado o framework selenium utilizando a linguagem java para realização dos testes. Foram feito três cenários distintos, 
-dois deles foram solicitados pela empresa CI&T, e o terceiro um cenário projetado e desenvolvido pelos alunos.
+## Trello:
+https://trello.com/b/HmpeJt82/projeto-aula-otaviano
 
 # GITHUB_INTEGRANTES
 
 
+Eduardo Marques Git: https://github.com/Tsukimono <br/>
+Heitor Araujo Git: https://github.com/heitor-araujo <br/>
 Vinícius Reis  Git: https://github.com/viniciusereis <br/>
 Junio Gabriel  Git: https://github.com/XwXGabrielXwX <br/>
 Lucas Marques  Git: https://github.com/Lucas-marques-web  <br/>
 Henrique Novaes Git: https://github.com/henriquebh8<br/
+Gaspar Souza Git: https://github.com/GasparSouza <br/>
 
 
 
