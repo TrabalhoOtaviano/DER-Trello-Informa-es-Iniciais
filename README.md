@@ -46,7 +46,7 @@ Métodos de contato com o Cliente <br/>
 ## Trello:
 https://trello.com/b/HmpeJt82/projeto-aula-otaviano
 
-# GITHUB_INTEGRANTES
+## GITHUB_INTEGRANTES
 
 
 Eduardo Marques Git: https://github.com/Tsukimono <br/>
@@ -54,9 +54,11 @@ Heitor Araujo Git: https://github.com/heitor-araujo <br/>
 Vinícius Reis  Git: https://github.com/viniciusereis <br/>
 Junio Gabriel  Git: https://github.com/XwXGabrielXwX <br/>
 Lucas Marques  Git: https://github.com/Lucas-marques-web  <br/>
-Henrique Novaes Git: https://github.com/henriquebh8<br/
+Henrique Novaes Git: https://github.com/henriquebh8<br/>
 Gaspar Souza Git: https://github.com/GasparSouza <br/>
 
 
+
+## Modelo DER banco de dados:
 
 ![DER](https://user-images.githubusercontent.com/60702448/163886699-66a950be-f078-4cf9-87f4-fb81800e1ee9.jpeg)
