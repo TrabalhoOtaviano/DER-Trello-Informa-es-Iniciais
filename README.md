@@ -43,18 +43,6 @@ Configuração de conta ( Alterações de dados) <br/>
 Métodos de contato com o Cliente <br/>
 
 
-
-# ⚙️ Executando os testes
-
-
-O primeiro realizar a pesquisa de Science: Computers e verificar se alguma questão é exibida. 
-
-O Segundo realiza a pesquisa de "Science: Computers" na aba "Category" e verifica se é encontrada o controle de paginação e exibe a quantidade de questão que aparecem.
-
-O Terceiro teste realiza uma busca de questão " Entertainment " e acessa o usuario responsavel pela primeira questão.
-
-
-
 # RESUMO
 
 Os testes foram criados utilizando como exemplo o projeto criado em sala pela Professora Rafaela.
