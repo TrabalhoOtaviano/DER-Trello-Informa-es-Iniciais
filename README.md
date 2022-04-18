@@ -37,6 +37,7 @@ Vinícius Reis  Git: https://github.com/viniciusereis <br/>
 Junio Gabriel  Git: https://github.com/XwXGabrielXwX <br/>
 Lucas Marques  Git: https://github.com/Lucas-marques-web  <br/>
 Henrique Novaes Git: https://github.com/henriquebh8<br/
+Gaspar Souza    Git:
 
 
 
