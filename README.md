@@ -1,4 +1,4 @@
-﻿# DER-Trello-Informa-es-Iniciais
+﻿# DER-Trello-Informacoes-Iniciais
 
 # 🚀 Começando
 O presente trabalho  iniciou-se com o levantamento dos requisitos, a modelagem do banco de dados utilizando o diagrama DER e a montagem do board no trello.
